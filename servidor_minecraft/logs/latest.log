@@ -38,3 +38,22 @@
 [04:48:22] [User Authenticator #3/INFO]: UUID of player iguanaseso is b6463326-594d-3cf9-b39f-a509eec0f706
 [04:48:23] [Server thread/INFO]: iguanaseso joined the game
 [04:48:23] [Server thread/INFO]: iguanaseso[/127.165.183.190:46471] logged in with entity id 1678 at ([world]-96.5, 64.0, -185.5)
+[04:49:13] [Server thread/INFO]: urlsxdd was slain by iguanaseso
+[04:49:57] [Server thread/INFO]: iguanaseso was slain by urlsxdd
+[04:50:10] [Server thread/INFO]: urlsxdd lost connection: Disconnected
+[04:50:10] [Server thread/INFO]: urlsxdd left the game
+[04:50:13] [Server thread/INFO]: iguanaseso lost connection: Disconnected
+[04:50:13] [Server thread/INFO]: iguanaseso left the game
+[04:50:13] [Server thread/INFO]: Stopping server
+[04:50:13] [Server thread/INFO]: Saving players
+[04:50:13] [Server thread/INFO]: Saving worlds
+[04:50:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:50:16] [Server thread/INFO]: Flushing Chunk IO
+[04:50:16] [Server thread/INFO]: Closing Thread Pool
+[04:50:16] [Server thread/INFO]: Closing Server
